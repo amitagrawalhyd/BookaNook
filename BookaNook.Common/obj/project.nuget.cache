@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "880eb4Xxxt0=",
+  "dgSpecHash": "KnPvQpFRE5s=",
   "success": true,
-  "projectFilePath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj",
+  "projectFilePath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amita.AMIT-AGRAWAL-PM\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\amita.AMIT-AGRAWAL-PM\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

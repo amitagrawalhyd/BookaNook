@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj": {}
+    "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj": {}
   },
   "projects": {
-    "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj": {
+    "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj",
+        "projectUniqueName": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj",
         "projectName": "BookaNook.Common",
-        "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj",
+        "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj",
         "packagesPath": "C:\\Users\\amita.AMIT-AGRAWAL-PM\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\obj\\",
+        "outputPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

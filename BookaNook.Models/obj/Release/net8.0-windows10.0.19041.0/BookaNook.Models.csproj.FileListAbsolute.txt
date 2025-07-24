@@ -10,3 +10,16 @@ D:\SourceTree\BookaNook\BookaNook\BookaNook.Models\obj\Release\net8.0-windows10.
 D:\SourceTree\BookaNook\BookaNook\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\refint\BookaNook.Models.dll
 D:\SourceTree\BookaNook\BookaNook\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Models.pdb
 D:\SourceTree\BookaNook\BookaNook\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\ref\BookaNook.Models.dll
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\bin\Release\net8.0-windows10.0.19041.0\BookaNook.Models.deps.json
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\bin\Release\net8.0-windows10.0.19041.0\BookaNook.Models.dll
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\bin\Release\net8.0-windows10.0.19041.0\BookaNook.Models.pdb
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Models.csproj.AssemblyReference.cache
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Models.AssemblyInfoInputs.cache
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Models.AssemblyInfo.cs
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Models.csproj.CoreCompileInputs.cache
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Models.sourcelink.json
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Models.dll
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\refint\BookaNook.Models.dll
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Models.pdb
+D:\SourceTree\BookaNook-GitHub\BookaNook.Models\obj\Release\net8.0-windows10.0.19041.0\ref\BookaNook.Models.dll
