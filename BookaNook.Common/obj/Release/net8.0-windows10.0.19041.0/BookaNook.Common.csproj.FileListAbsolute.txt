@@ -1,0 +1,12 @@
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\bin\Release\net8.0-windows10.0.19041.0\BookaNook.Common.deps.json
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\bin\Release\net8.0-windows10.0.19041.0\BookaNook.Common.dll
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\bin\Release\net8.0-windows10.0.19041.0\BookaNook.Common.pdb
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Common.csproj.AssemblyReference.cache
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Common.AssemblyInfoInputs.cache
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Common.AssemblyInfo.cs
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Common.csproj.CoreCompileInputs.cache
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Common.dll
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\obj\Release\net8.0-windows10.0.19041.0\refint\BookaNook.Common.dll
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\obj\Release\net8.0-windows10.0.19041.0\BookaNook.Common.pdb
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\obj\Release\net8.0-windows10.0.19041.0\ref\BookaNook.Common.dll

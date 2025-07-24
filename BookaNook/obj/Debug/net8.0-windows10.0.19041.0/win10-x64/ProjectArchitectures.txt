@@ -1,0 +1,6 @@
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\BookaNook.Common.csproj;neutral
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Common\BookaNook.Common.csproj;neutral
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Models\BookaNook.Models.csproj;neutral
+D:\SourceTree\BookaNook\BookaNook\BookaNook.Models\BookaNook.Models.csproj;neutral
+D:\SourceTree\BookaNook\BookaNook\BookaNook.ViewModels\BookaNook.ViewModels.csproj;neutral
+D:\SourceTree\BookaNook\BookaNook\BookaNook\BookaNook.csproj;x64

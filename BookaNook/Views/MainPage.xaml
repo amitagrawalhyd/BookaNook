@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- ReSharper disable once Xaml.RedundantNamespaceAlias -->
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookaNook.MainPage"
+             xmlns:model="clr-namespace:BookaNook.Models;assembly=BookaNook.Models"
+             xmlns:viewModels="clr-namespace:BookaNook.ViewModels;assembly=BookaNook.ViewModels"
+             Title="Your Nooky stay with BookaNook">
+
+    <ContentPage.BindingContext>
+        <viewModels:PropertyListViewModel />
+    </ContentPage.BindingContext>
+
+    <Shell.SearchHandler>
+        <SearchHandler Placeholder="Where to?"
+                       ShowsResults="True"
+                       DisplayMemberName="Address">
+            <!-- Add search functionality here later -->
+        </SearchHandler>
+    </Shell.SearchHandler>
+
+    <CollectionView ItemsSource="{Binding Properties}"
+                    SelectionMode="Single">
+        <!-- SelectionChanged="OnPropertySelected" - We will add this later -->
+        <CollectionView.ItemTemplate>
+            <DataTemplate x:DataType="model:Property">
+                <Grid Padding="10" RowSpacing="10">
+                    <Border StrokeShape="RoundRectangle 20"
+                            StrokeThickness="1"
+                            Stroke="LightGray"
+                            Padding="0">
+                        <StackLayout>
+                            <!-- Property Image Carousel -->
+                            <CarouselView ItemsSource="{Binding Images}" 
+                                          HeightRequest="250" 
+                                          IndicatorView="indicatorView">
+                                <CarouselView.ItemTemplate>
+                                    <DataTemplate x:DataType="model:PropertyImage">
+                                        <Image Source="{Binding ImageURL}" 
+                                               Aspect="AspectFill"/>
+                                    </DataTemplate>
+                                </CarouselView.ItemTemplate>
+                            </CarouselView>
+                            <IndicatorView x:Name="indicatorView"
+                                           IndicatorColor="LightGray"
+                                           SelectedIndicatorColor="Black"
+                                           HorizontalOptions="Center"
+                                           Padding="0,0,0,10"/>
+
+                            <!-- Property Details -->
+                            <StackLayout Padding="15,0,15,15">
+                                <Label Text="{Binding Title}" 
+                                       FontAttributes="Bold" 
+                                       FontSize="Large"/>
+                                <Label Text="{Binding City}" 
+                                       TextColor="Gray"/>
+                                <Label Text="{Binding DateListed, StringFormat='Available from: {0:MMM dd, yyyy}'}" 
+                                       TextColor="Gray"/>
+                                <Label FontSize="Medium">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="{Binding PricePerNight, StringFormat='AED {0:F2}'}" FontAttributes="Bold"/>
+                                            <Span Text=" night"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                            </StackLayout>
+                        </StackLayout>
+                    </Border>
+                </Grid>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+
+    <!--<ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="bookanooklogo.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="A cozy Destination for your next trip!" />
+
+            <Label
+                Text="Search your next destination with us"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level5"
+                SemanticProperties.Description="BookaNook will help you find your dream stay!" />
+        </VerticalStackLayout>
+    </ScrollView>-->
+</ContentPage>
