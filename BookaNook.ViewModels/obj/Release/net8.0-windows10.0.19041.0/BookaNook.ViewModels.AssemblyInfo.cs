@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookaNook.ViewModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b00d2cb7ea37aa95dd767926a79f20918565e3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e613b9c9c18baf2c9d0a8ae29f509c1ee6fc26c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookaNook.ViewModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookaNook.ViewModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

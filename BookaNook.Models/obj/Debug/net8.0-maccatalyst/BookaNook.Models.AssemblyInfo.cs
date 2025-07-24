@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookaNook.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e613b9c9c18baf2c9d0a8ae29f509c1ee6fc26c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookaNook.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookaNook.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
