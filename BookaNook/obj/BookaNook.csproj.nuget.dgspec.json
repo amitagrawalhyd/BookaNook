@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook\\BookaNook.csproj": {}
+    "D:\\SourceTree\\BookaNook-GitHub\\BookaNook\\BookaNook.csproj": {}
   },
   "projects": {
-    "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj": {
+    "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj",
+        "projectUniqueName": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj",
         "projectName": "BookaNook.Common",
-        "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj",
+        "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj",
         "packagesPath": "C:\\Users\\amita.AMIT-AGRAWAL-PM\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\obj\\",
+        "outputPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -236,14 +236,14 @@
         }
       }
     },
-    "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj": {
+    "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj",
+        "projectUniqueName": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj",
         "projectName": "BookaNook.Models",
-        "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj",
+        "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj",
         "packagesPath": "C:\\Users\\amita.AMIT-AGRAWAL-PM\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\obj\\",
+        "outputPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -468,14 +468,14 @@
         }
       }
     },
-    "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj": {
+    "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj",
+        "projectUniqueName": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj",
         "projectName": "BookaNook.ViewModels",
-        "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj",
+        "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj",
         "packagesPath": "C:\\Users\\amita.AMIT-AGRAWAL-PM\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\obj\\",
+        "outputPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -502,44 +502,44 @@
           "net8.0-android34.0": {
             "targetAlias": "net8.0-android",
             "projectReferences": {
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj"
               }
             }
           },
           "net8.0-ios18.0": {
             "targetAlias": "net8.0-ios",
             "projectReferences": {
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj"
               }
             }
           },
           "net8.0-maccatalyst18.0": {
             "targetAlias": "net8.0-maccatalyst",
             "projectReferences": {
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj"
               }
             }
           },
           "net8.0-windows10.0.19041": {
             "targetAlias": "net8.0-windows10.0.19041.0",
             "projectReferences": {
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj"
               }
             }
           }
@@ -728,14 +728,14 @@
         }
       }
     },
-    "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook\\BookaNook.csproj": {
+    "D:\\SourceTree\\BookaNook-GitHub\\BookaNook\\BookaNook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook\\BookaNook.csproj",
+        "projectUniqueName": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook\\BookaNook.csproj",
         "projectName": "BookaNook",
-        "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook\\BookaNook.csproj",
+        "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook\\BookaNook.csproj",
         "packagesPath": "C:\\Users\\amita.AMIT-AGRAWAL-PM\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook\\obj\\",
+        "outputPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -762,56 +762,56 @@
           "net8.0-android34.0": {
             "targetAlias": "net8.0-android",
             "projectReferences": {
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj"
               }
             }
           },
           "net8.0-ios18.0": {
             "targetAlias": "net8.0-ios",
             "projectReferences": {
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj"
               }
             }
           },
           "net8.0-maccatalyst18.0": {
             "targetAlias": "net8.0-maccatalyst",
             "projectReferences": {
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj"
               }
             }
           },
           "net8.0-windows10.0.19041": {
             "targetAlias": "net8.0-windows10.0.19041.0",
             "projectReferences": {
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Common\\BookaNook.Common.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Common\\BookaNook.Common.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.Models\\BookaNook.Models.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.Models\\BookaNook.Models.csproj"
               },
-              "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj": {
-                "projectPath": "D:\\SourceTree\\BookaNook\\BookaNook\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj"
+              "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj": {
+                "projectPath": "D:\\SourceTree\\BookaNook-GitHub\\BookaNook.ViewModels\\BookaNook.ViewModels.csproj"
               }
             }
           }
